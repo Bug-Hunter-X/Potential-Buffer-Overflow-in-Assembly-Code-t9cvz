@@ -1,0 +1,1 @@
+This repository contains an example of a potential buffer overflow vulnerability in assembly language.  The `bug.asm` file demonstrates the unsafe code, while `bugSolution.asm` shows a corrected version with improved bounds checking.  This example highlights the importance of careful memory management in low-level programming to prevent security exploits.
